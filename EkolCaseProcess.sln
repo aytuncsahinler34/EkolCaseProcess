@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EkolCaseProcess", "EkolCaseProcess\EkolCaseProcess.csproj", "{6DC19377-278D-4A9F-B62E-37EB2712985F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EkolCaseProcessTest", "Tests\EkolCaseProcessTest.csproj", "{59D55952-BE8A-48FE-A77C-7F8E245B894A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DC19377-278D-4A9F-B62E-37EB2712985F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DC19377-278D-4A9F-B62E-37EB2712985F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DC19377-278D-4A9F-B62E-37EB2712985F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DC19377-278D-4A9F-B62E-37EB2712985F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59D55952-BE8A-48FE-A77C-7F8E245B894A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59D55952-BE8A-48FE-A77C-7F8E245B894A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59D55952-BE8A-48FE-A77C-7F8E245B894A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59D55952-BE8A-48FE-A77C-7F8E245B894A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BC9DCE8-E024-4D9E-9CBD-B490595A0023}
+	EndGlobalSection
+EndGlobal
